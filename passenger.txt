@@ -1,0 +1,12 @@
+aryan,CruiseA,regular,1
+aryan,CruiseA,regular,9
+vinayak,CruiseA,business,4
+aryan,CruiseA,economy,4
+aryan,CruiseA,regular,2
+aryan,101,business,2
+aryan,101,regular,5
+aryan,101,regular,19
+aryan,101,regular,2
+aryan,102,regular,8
+aryan,103,economy,3
+aryan,102,economy,3

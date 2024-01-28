@@ -1,0 +1,2 @@
+101,Lakshwadeep,5,16,Kochi,Lakshwadeep,10,5,20,200,500,100
+102,Andaman,5,19,Chennai,Andaman,10,5,20,200,500,100
